@@ -1,4 +1,4 @@
 Python Examples
 =====================
-li - Simple Closure and Lambda example in Python 
-li - Usage of else in try
+1. Simple Closure and Lambda example in Python 
+2. Usage of else in try
