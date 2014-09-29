@@ -1,3 +1,4 @@
-Python-closure-Lambda
+Python Examples
 =====================
-Simple Closure and Lambda example in Python 
+li - Simple Closure and Lambda example in Python 
+li - Usage of else in try
